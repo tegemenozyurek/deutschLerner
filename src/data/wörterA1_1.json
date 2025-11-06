@@ -1,0 +1,2002 @@
+[
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "das",
+    "Wort": "Haus",
+    "Beispiel": "Das Haus ist groß.",
+    "Türkisch": "ev"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "das",
+    "Wort": "Bad",
+    "Beispiel": "Das Bad ist im ersten Stock.",
+    "Türkisch": "banyo"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "das",
+    "Wort": "Schlafzimmer",
+    "Beispiel": "Das Schlafzimmer ist ruhig.",
+    "Türkisch": "yatak odası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "das",
+    "Wort": "Kinderzimmer",
+    "Beispiel": "Das Kinderzimmer ist bunt.",
+    "Türkisch": "çocuk odası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "das",
+    "Wort": "Wohnzimmer",
+    "Beispiel": "Das Wohnzimmer ist gemütlich.",
+    "Türkisch": "oturma odası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "das",
+    "Wort": "Zimmer",
+    "Beispiel": "Das Zimmer ist hell.",
+    "Türkisch": "oda"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "die",
+    "Wort": "Toilette",
+    "Beispiel": "Die Toilette ist neben dem Bad.",
+    "Türkisch": "tuvalet"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "das",
+    "Wort": "WC",
+    "Beispiel": "Das WC ist im Flur.",
+    "Türkisch": "tuvalet"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "die",
+    "Wort": "Wohnung",
+    "Beispiel": "Die Wohnung hat drei Zimmer.",
+    "Türkisch": "daire"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "die",
+    "Wort": "Küche",
+    "Beispiel": "Die Küche ist modern.",
+    "Türkisch": "mutfak"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "die",
+    "Wort": "Treppe",
+    "Beispiel": "Die Treppe führt nach oben.",
+    "Türkisch": "merdiven"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "der",
+    "Wort": "Balkon",
+    "Beispiel": "Der Balkon hat eine schöne Aussicht.",
+    "Türkisch": "balkon"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "der",
+    "Wort": "Garten",
+    "Beispiel": "Der Garten ist sehr groß.",
+    "Türkisch": "bahçe"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "der",
+    "Wort": "Flur",
+    "Beispiel": "Der Flur ist lang.",
+    "Türkisch": "koridor"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Meine Wohnung",
+    "artikel": "der",
+    "Wort": "Keller",
+    "Beispiel": "Der Keller ist im Erdgeschoss.",
+    "Türkisch": "bodrum"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "der",
+    "Wort": "Tisch",
+    "Beispiel": "Der Tisch ist aus Holz.",
+    "Türkisch": "masa"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "der",
+    "Wort": "Stuhl",
+    "Beispiel": "Der Stuhl steht am Tisch.",
+    "Türkisch": "sandalye"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "der",
+    "Wort": "Schrank",
+    "Beispiel": "Der Schrank ist groß.",
+    "Türkisch": "dolap"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "der",
+    "Wort": "Teppich",
+    "Beispiel": "Der Teppich liegt auf dem Boden.",
+    "Türkisch": "halı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "der",
+    "Wort": "Fernseher",
+    "Beispiel": "Der Fernseher ist neu.",
+    "Türkisch": "televizyon"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "der",
+    "Wort": "Computer",
+    "Beispiel": "Der Computer ist schnell.",
+    "Türkisch": "bilgisayar"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "der",
+    "Wort": "Schreibtisch",
+    "Beispiel": "Der Schreibtisch steht im Zimmer.",
+    "Türkisch": "yazı masası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "der",
+    "Wort": "Spiegel",
+    "Beispiel": "Der Spiegel hängt an der Wand.",
+    "Türkisch": "ayna"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "das",
+    "Wort": "Bett",
+    "Beispiel": "Das Bett ist bequem.",
+    "Türkisch": "yatak"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "das",
+    "Wort": "Sofa",
+    "Beispiel": "Das Sofa ist im Wohnzimmer.",
+    "Türkisch": "kanepe"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "das",
+    "Wort": "Regal",
+    "Beispiel": "Das Regal ist voller Bücher.",
+    "Türkisch": "raf"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "die",
+    "Wort": "Lampe",
+    "Beispiel": "Die Lampe leuchtet hell.",
+    "Türkisch": "lamba"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Möbel",
+    "artikel": "die",
+    "Wort": "Uhr",
+    "Beispiel": "Die Uhr zeigt neun Uhr.",
+    "Türkisch": "saat"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "das",
+    "Wort": "Brot",
+    "Beispiel": "Das Brot ist frisch.",
+    "Türkisch": "ekmek"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "die",
+    "Wort": "Butter",
+    "Beispiel": "Die Butter ist weich.",
+    "Türkisch": "tereyağı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "der",
+    "Wort": "Käse",
+    "Beispiel": "Der Käse schmeckt gut.",
+    "Türkisch": "peynir"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "die",
+    "Wort": "Wurst",
+    "Beispiel": "Die Wurst ist lecker.",
+    "Türkisch": "sosis"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "das",
+    "Wort": "Fleisch",
+    "Beispiel": "Das Fleisch ist teuer.",
+    "Türkisch": "et"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "das",
+    "Wort": "Hähnchen",
+    "Beispiel": "Das Hähnchen ist gebraten.",
+    "Türkisch": "tavuk"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "der",
+    "Wort": "Fisch",
+    "Beispiel": "Der Fisch ist gesund.",
+    "Türkisch": "balık"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "das",
+    "Wort": "Ei",
+    "Beispiel": "Das Ei ist gekocht.",
+    "Türkisch": "yumurta"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "die",
+    "Wort": "Suppe",
+    "Beispiel": "Die Suppe ist heiß.",
+    "Türkisch": "çorba"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "der",
+    "Wort": "Reis",
+    "Beispiel": "Der Reis ist gekocht.",
+    "Türkisch": "pirinç"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "die",
+    "Wort": "Kartoffel",
+    "Beispiel": "Die Kartoffel ist gebacken.",
+    "Türkisch": "patates"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "das",
+    "Wort": "Gemüse",
+    "Beispiel": "Das Gemüse ist frisch.",
+    "Türkisch": "sebze"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "das",
+    "Wort": "Obst",
+    "Beispiel": "Das Obst ist süß.",
+    "Türkisch": "meyve"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "der",
+    "Wort": "Apfel",
+    "Beispiel": "Der Apfel ist rot.",
+    "Türkisch": "elma"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "die",
+    "Wort": "Banane",
+    "Beispiel": "Die Banane ist gelb.",
+    "Türkisch": "muz"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "die",
+    "Wort": "Orange",
+    "Beispiel": "Die Orange ist sauer.",
+    "Türkisch": "portakal"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "die",
+    "Wort": "Tomate",
+    "Beispiel": "Die Tomate ist rot.",
+    "Türkisch": "domates"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "die",
+    "Wort": "Gurke",
+    "Beispiel": "Die Gurke ist grün.",
+    "Türkisch": "salatalık"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "die",
+    "Wort": "Zwiebel",
+    "Beispiel": "Die Zwiebel ist scharf.",
+    "Türkisch": "soğan"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Lebensmittel",
+    "artikel": "der",
+    "Wort": "Salat",
+    "Beispiel": "Der Salat ist frisch.",
+    "Türkisch": "salata"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "das",
+    "Wort": "Wasser",
+    "Beispiel": "Das Wasser ist kalt.",
+    "Türkisch": "su"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "das",
+    "Wort": "Mineralwasser",
+    "Beispiel": "Das Mineralwasser ist gesund.",
+    "Türkisch": "maden suyu"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "der",
+    "Wort": "Tee",
+    "Beispiel": "Der Tee ist heiß.",
+    "Türkisch": "çay"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "der",
+    "Wort": "Kaffee",
+    "Beispiel": "Der Kaffee schmeckt gut.",
+    "Türkisch": "kahve"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "die",
+    "Wort": "Milch",
+    "Beispiel": "Die Milch ist weiß.",
+    "Türkisch": "süt"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "der",
+    "Wort": "Saft",
+    "Beispiel": "Der Saft ist süß.",
+    "Türkisch": "meyve suyu"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "der",
+    "Wort": "Orangensaft",
+    "Beispiel": "Der Orangensaft ist frisch.",
+    "Türkisch": "portakal suyu"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "die",
+    "Wort": "Cola",
+    "Beispiel": "Die Cola ist kalt.",
+    "Türkisch": "kola"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "das",
+    "Wort": "Bier",
+    "Beispiel": "Das Bier ist kalt.",
+    "Türkisch": "bira"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Getränke",
+    "artikel": "der",
+    "Wort": "Wein",
+    "Beispiel": "Der Wein ist rot.",
+    "Türkisch": "şarap"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "im Restaurant",
+    "artikel": "die",
+    "Wort": "Speisekarte",
+    "Beispiel": "Die Speisekarte ist groß.",
+    "Türkisch": "menü"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "im Restaurant",
+    "artikel": "das",
+    "Wort": "Menü",
+    "Beispiel": "Das Menü ist lecker.",
+    "Türkisch": "menü"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "im Restaurant",
+    "artikel": "das",
+    "Wort": "Gericht",
+    "Beispiel": "Das Gericht schmeckt gut.",
+    "Türkisch": "yemek"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "im Restaurant",
+    "artikel": "der",
+    "Wort": "Kellner",
+    "Beispiel": "Der Kellner bringt das Essen.",
+    "Türkisch": "garson"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "im Restaurant",
+    "artikel": "die",
+    "Wort": "Kellnerin",
+    "Beispiel": "Die Kellnerin ist freundlich.",
+    "Türkisch": "kadın garson"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "im Restaurant",
+    "artikel": "das",
+    "Wort": "Frühstück",
+    "Beispiel": "Das Frühstück ist um acht Uhr.",
+    "Türkisch": "kahvaltı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "im Restaurant",
+    "artikel": "das",
+    "Wort": "Mittagessen",
+    "Beispiel": "Das Mittagessen ist um zwölf Uhr.",
+    "Türkisch": "öğle yemeği"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "im Restaurant",
+    "artikel": "das",
+    "Wort": "Abendessen",
+    "Beispiel": "Das Abendessen ist um sieben Uhr.",
+    "Türkisch": "akşam yemeği"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Lehrer",
+    "Beispiel": "Der Lehrer erklärt die Grammatik.",
+    "Türkisch": "öğretmen"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Lehrerin",
+    "Beispiel": "Die Lehrerin ist sehr nett.",
+    "Türkisch": "kadın öğretmen"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Schüler",
+    "Beispiel": "Der Schüler lernt Deutsch.",
+    "Türkisch": "öğrenci"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Schülerin",
+    "Beispiel": "Die Schülerin macht Hausaufgaben.",
+    "Türkisch": "kız öğrenci"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Student",
+    "Beispiel": "Der Student studiert an der Universität.",
+    "Türkisch": "üniversite öğrencisi"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Studentin",
+    "Beispiel": "Die Studentin schreibt eine Prüfung.",
+    "Türkisch": "üniversite öğrencisi (kadın)"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Arzt",
+    "Beispiel": "Der Arzt hilft den Patienten.",
+    "Türkisch": "doktor"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Ärztin",
+    "Beispiel": "Die Ärztin untersucht den Patienten.",
+    "Türkisch": "kadın doktor"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Ingenieur",
+    "Beispiel": "Der Ingenieur baut Brücken.",
+    "Türkisch": "mühendis"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Ingenieurin",
+    "Beispiel": "Die Ingenieurin plant Gebäude.",
+    "Türkisch": "kadın mühendis"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Informatiker",
+    "Beispiel": "Der Informatiker programmiert Computer.",
+    "Türkisch": "bilgisayar uzmanı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Informatikerin",
+    "Beispiel": "Die Informatikerin entwickelt Software.",
+    "Türkisch": "kadın bilgisayar uzmanı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Programmierer",
+    "Beispiel": "Der Programmierer schreibt Code.",
+    "Türkisch": "programcı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Programmiererin",
+    "Beispiel": "Die Programmiererin arbeitet mit Computern.",
+    "Türkisch": "kadın programcı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Verkäufer",
+    "Beispiel": "Der Verkäufer verkauft Waren.",
+    "Türkisch": "satıcı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Verkäuferin",
+    "Beispiel": "Die Verkäuferin arbeitet im Laden.",
+    "Türkisch": "kadın satıcı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Koch",
+    "Beispiel": "Der Koch kocht das Essen.",
+    "Türkisch": "aşçı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Köchin",
+    "Beispiel": "Die Köchin bereitet das Menü vor.",
+    "Türkisch": "kadın aşçı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Kellner",
+    "Beispiel": "Der Kellner serviert das Essen.",
+    "Türkisch": "garson"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Kellnerin",
+    "Beispiel": "Die Kellnerin bringt die Rechnung.",
+    "Türkisch": "kadın garson"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Mechaniker",
+    "Beispiel": "Der Mechaniker repariert Autos.",
+    "Türkisch": "tamirci"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Mechanikerin",
+    "Beispiel": "Die Mechanikerin arbeitet in der Werkstatt.",
+    "Türkisch": "kadın tamirci"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Fahrer",
+    "Beispiel": "Der Fahrer fährt den Bus.",
+    "Türkisch": "şoför"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Fahrerin",
+    "Beispiel": "Die Fahrerin fährt das Taxi.",
+    "Türkisch": "kadın şoför"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Polizist",
+    "Beispiel": "Der Polizist kontrolliert den Verkehr.",
+    "Türkisch": "polis"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Polizistin",
+    "Beispiel": "Die Polizistin hilft den Menschen.",
+    "Türkisch": "kadın polis"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Feuerwehrmann",
+    "Beispiel": "Der Feuerwehrmann löscht das Feuer.",
+    "Türkisch": "itfaiyeci"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Feuerwehrfrau",
+    "Beispiel": "Die Feuerwehrfrau rettet Menschen.",
+    "Türkisch": "kadın itfaiyeci"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Krankenpfleger",
+    "Beispiel": "Der Krankenpfleger hilft den Patienten.",
+    "Türkisch": "hemşire"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Krankenschwester",
+    "Beispiel": "Die Krankenschwester arbeitet im Krankenhaus.",
+    "Türkisch": "hemşire"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Bäcker",
+    "Beispiel": "Der Bäcker backt Brot.",
+    "Türkisch": "fırıncı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Bäckerin",
+    "Beispiel": "Die Bäckerin macht Kuchen.",
+    "Türkisch": "kadın fırıncı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Friseur",
+    "Beispiel": "Der Friseur schneidet die Haare.",
+    "Türkisch": "kuaför"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Friseurin",
+    "Beispiel": "Die Friseurin färbt die Haare.",
+    "Türkisch": "kadın kuaför"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Architekt",
+    "Beispiel": "Der Architekt plant Häuser.",
+    "Türkisch": "mimar"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Architektin",
+    "Beispiel": "Die Architektin entwirft Gebäude.",
+    "Türkisch": "kadın mimar"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Maler",
+    "Beispiel": "Der Maler malt Bilder.",
+    "Türkisch": "ressam"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Malerin",
+    "Beispiel": "Die Malerin stellt ihre Werke aus.",
+    "Türkisch": "kadın ressam"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Musiker",
+    "Beispiel": "Der Musiker spielt Gitarre.",
+    "Türkisch": "müzisyen"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Musikerin",
+    "Beispiel": "Die Musikerin singt Lieder.",
+    "Türkisch": "kadın müzisyen"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Journalist",
+    "Beispiel": "Der Journalist schreibt Artikel.",
+    "Türkisch": "gazeteci"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Journalistin",
+    "Beispiel": "Die Journalistin interviewt Menschen.",
+    "Türkisch": "kadın gazeteci"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Sekretär",
+    "Beispiel": "Der Sekretär organisiert Termine.",
+    "Türkisch": "sekreter"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Sekretärin",
+    "Beispiel": "Die Sekretärin schreibt Briefe.",
+    "Türkisch": "kadın sekreter"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Chef",
+    "Beispiel": "Der Chef leitet die Firma.",
+    "Türkisch": "patron"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Chefin",
+    "Beispiel": "Die Chefin hat viele Mitarbeiter.",
+    "Türkisch": "kadın patron"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Arbeiter",
+    "Beispiel": "Der Arbeiter arbeitet in der Fabrik.",
+    "Türkisch": "işçi"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Arbeiterin",
+    "Beispiel": "Die Arbeiterin arbeitet hart.",
+    "Türkisch": "kadın işçi"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Hausmann",
+    "Beispiel": "Der Hausmann kümmert sich um die Kinder.",
+    "Türkisch": "ev hanımı (erkek)"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Hausfrau",
+    "Beispiel": "Die Hausfrau kocht und putzt.",
+    "Türkisch": "ev hanımı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "der",
+    "Wort": "Künstler",
+    "Beispiel": "Der Künstler malt Porträts.",
+    "Türkisch": "sanatçı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Beruf",
+    "artikel": "die",
+    "Wort": "Künstlerin",
+    "Beispiel": "Die Künstlerin stellt aus.",
+    "Türkisch": "kadın sanatçı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "der",
+    "Wort": "Supermarkt",
+    "Beispiel": "Der Supermarkt ist groß.",
+    "Türkisch": "süpermarket"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "der",
+    "Wort": "Markt",
+    "Beispiel": "Der Markt ist am Samstag.",
+    "Türkisch": "pazar"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "die",
+    "Wort": "Bäckerei",
+    "Beispiel": "Die Bäckerei verkauft Brot.",
+    "Türkisch": "fırın"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "die",
+    "Wort": "Metzgerei",
+    "Beispiel": "Die Metzgerei verkauft Fleisch.",
+    "Türkisch": "kasap"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "die",
+    "Wort": "Apotheke",
+    "Beispiel": "Die Apotheke ist geschlossen.",
+    "Türkisch": "eczane"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Geschäft",
+    "Beispiel": "Das Geschäft öffnet um neun Uhr.",
+    "Türkisch": "dükkan"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "der",
+    "Wort": "Laden",
+    "Beispiel": "Der Laden ist klein.",
+    "Türkisch": "dükkan"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Kaufhaus",
+    "Beispiel": "Das Kaufhaus hat viele Etagen.",
+    "Türkisch": "büyük mağaza"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Obstgeschäft",
+    "Beispiel": "Das Obstgeschäft verkauft Früchte.",
+    "Türkisch": "meyve dükkanı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "die",
+    "Wort": "Drogerie",
+    "Beispiel": "Die Drogerie verkauft Kosmetik.",
+    "Türkisch": "kozmetik mağazası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Schuhgeschäft",
+    "Beispiel": "Das Schuhgeschäft ist teuer.",
+    "Türkisch": "ayakkabı mağazası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Kleidungsgeschäft",
+    "Beispiel": "Das Kleidungsgeschäft hat viele Kleider.",
+    "Türkisch": "giyim mağazası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "der",
+    "Wort": "Preis",
+    "Beispiel": "Der Preis ist hoch.",
+    "Türkisch": "fiyat"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Kilo",
+    "Beispiel": "Das Kilo Äpfel kostet zwei Euro.",
+    "Türkisch": "kilo"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Gramm",
+    "Beispiel": "Das Gramm ist eine Maßeinheit.",
+    "Türkisch": "gram"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "die",
+    "Wort": "Flasche",
+    "Beispiel": "Die Flasche Wasser kostet einen Euro.",
+    "Türkisch": "şişe"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "die",
+    "Wort": "Dose",
+    "Beispiel": "Die Dose ist aus Metall.",
+    "Türkisch": "kutu"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Stück",
+    "Beispiel": "Das Stück kostet fünf Euro.",
+    "Türkisch": "adet"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Paket",
+    "Beispiel": "Das Paket ist schwer.",
+    "Türkisch": "paket"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "der",
+    "Wort": "Liter",
+    "Beispiel": "Der Liter Milch kostet einen Euro.",
+    "Türkisch": "litre"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "der",
+    "Wort": "Becher",
+    "Beispiel": "Der Becher ist voll.",
+    "Türkisch": "kupa"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "der",
+    "Wort": "Rabatt",
+    "Beispiel": "Der Rabatt ist zwanzig Prozent.",
+    "Türkisch": "indirim"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Einkaufen",
+    "artikel": "das",
+    "Wort": "Angebot",
+    "Beispiel": "Das Angebot ist günstig.",
+    "Türkisch": "kampanya"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Stadt",
+    "Beispiel": "Die Stadt ist groß.",
+    "Türkisch": "şehir"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "das",
+    "Wort": "Zentrum",
+    "Beispiel": "Das Zentrum ist voller Menschen.",
+    "Türkisch": "merkez"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Innenstadt",
+    "Beispiel": "Die Innenstadt ist sehr belebt.",
+    "Türkisch": "şehir merkezi"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "der",
+    "Wort": "Bahnhof",
+    "Beispiel": "Der Bahnhof ist modern.",
+    "Türkisch": "istasyon"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Haltestelle",
+    "Beispiel": "Die Haltestelle ist um die Ecke.",
+    "Türkisch": "durak"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "der",
+    "Wort": "Flughafen",
+    "Beispiel": "Der Flughafen ist weit entfernt.",
+    "Türkisch": "havaalanı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Bank",
+    "Beispiel": "Die Bank ist geschlossen.",
+    "Türkisch": "banka"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Post",
+    "Beispiel": "Die Post ist am Montag offen.",
+    "Türkisch": "postane"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "das",
+    "Wort": "Hotel",
+    "Beispiel": "Das Hotel ist teuer.",
+    "Türkisch": "otel"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "das",
+    "Wort": "Restaurant",
+    "Beispiel": "Das Restaurant ist voll.",
+    "Türkisch": "restoran"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "das",
+    "Wort": "Café",
+    "Beispiel": "Das Café ist gemütlich.",
+    "Türkisch": "kafe"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "der",
+    "Wort": "Supermarkt",
+    "Beispiel": "Der Supermarkt ist groß.",
+    "Türkisch": "süpermarket"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Apotheke",
+    "Beispiel": "Die Apotheke ist geschlossen.",
+    "Türkisch": "eczane"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "das",
+    "Wort": "Krankenhaus",
+    "Beispiel": "Das Krankenhaus ist groß.",
+    "Türkisch": "hastane"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Schule",
+    "Beispiel": "Die Schule beginnt um acht Uhr.",
+    "Türkisch": "okul"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Universität",
+    "Beispiel": "Die Universität ist berühmt.",
+    "Türkisch": "üniversite"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "der",
+    "Wort": "Park",
+    "Beispiel": "Der Park ist schön.",
+    "Türkisch": "park"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "das",
+    "Wort": "Kino",
+    "Beispiel": "Das Kino zeigt neue Filme.",
+    "Türkisch": "sinema"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "das",
+    "Wort": "Museum",
+    "Beispiel": "Das Museum ist interessant.",
+    "Türkisch": "müze"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "das",
+    "Wort": "Rathaus",
+    "Beispiel": "Das Rathaus ist alt.",
+    "Türkisch": "belediye binası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Bibliothek",
+    "Beispiel": "Die Bibliothek ist ruhig.",
+    "Türkisch": "kütüphane"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Polizei",
+    "Beispiel": "Die Polizei hilft den Menschen.",
+    "Türkisch": "polis"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Straße",
+    "Beispiel": "Die Straße ist breit.",
+    "Türkisch": "cadde"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Hausnummer",
+    "Beispiel": "Die Hausnummer ist fünfzehn.",
+    "Türkisch": "bina numarası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Postleitzahl",
+    "Beispiel": "Die Postleitzahl ist wichtig.",
+    "Türkisch": "posta kodu"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "das",
+    "Wort": "Land",
+    "Beispiel": "Das Land ist schön.",
+    "Türkisch": "ülke"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Stadt",
+    "artikel": "die",
+    "Wort": "Adresse",
+    "Beispiel": "Die Adresse ist wichtig.",
+    "Türkisch": "adres"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "das",
+    "Wort": "Wetter",
+    "Beispiel": "Das Wetter ist schön heute.",
+    "Türkisch": "hava"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "die",
+    "Wort": "Sonne",
+    "Beispiel": "Die Sonne scheint hell.",
+    "Türkisch": "güneş"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "der",
+    "Wort": "Regen",
+    "Beispiel": "Der Regen fällt heute.",
+    "Türkisch": "yağmur"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "der",
+    "Wort": "Schnee",
+    "Beispiel": "Der Schnee ist weiß.",
+    "Türkisch": "kar"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "der",
+    "Wort": "Wind",
+    "Beispiel": "Der Wind weht stark.",
+    "Türkisch": "rüzgar"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "die",
+    "Wort": "Wolke",
+    "Beispiel": "Die Wolke ist grau.",
+    "Türkisch": "bulut"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "der",
+    "Wort": "Sturm",
+    "Beispiel": "Der Sturm ist gefährlich.",
+    "Türkisch": "fırtına"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "das",
+    "Wort": "Gewitter",
+    "Beispiel": "Das Gewitter ist laut.",
+    "Türkisch": "gök gürültülü fırtına"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "der",
+    "Wort": "Donner",
+    "Beispiel": "Der Donner ist laut.",
+    "Türkisch": "gök gürültüsü"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "der",
+    "Wort": "Blitz",
+    "Beispiel": "Der Blitz ist hell.",
+    "Türkisch": "şimşek"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Wetter",
+    "artikel": "das",
+    "Wort": "Thermometer",
+    "Beispiel": "Das Thermometer zeigt die Temperatur.",
+    "Türkisch": "termometre"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Freizeit",
+    "artikel": "die",
+    "Wort": "Freizeit",
+    "Beispiel": "Die Freizeit ist wichtig.",
+    "Türkisch": "boş zaman"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Freizeit",
+    "artikel": "das",
+    "Wort": "Hobby",
+    "Beispiel": "Das Hobby macht Spaß.",
+    "Türkisch": "hobi"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Freizeit",
+    "artikel": "das",
+    "Wort": "Interesse",
+    "Beispiel": "Das Interesse ist groß.",
+    "Türkisch": "ilgi"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Freizeit",
+    "artikel": "die",
+    "Wort": "Zeit",
+    "Beispiel": "Die Zeit vergeht schnell.",
+    "Türkisch": "zaman"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Freizeit",
+    "artikel": "das",
+    "Wort": "Wochenende",
+    "Beispiel": "Das Wochenende ist lang.",
+    "Türkisch": "hafta sonu"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "das",
+    "Wort": "T-Shirt",
+    "Beispiel": "Das T-Shirt ist blau.",
+    "Türkisch": "tişört"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "das",
+    "Wort": "Hemd",
+    "Beispiel": "Das Hemd ist weiß.",
+    "Türkisch": "gömlek"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Hose",
+    "Beispiel": "Die Hose ist schwarz.",
+    "Türkisch": "pantolon"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "das",
+    "Wort": "Kleid",
+    "Beispiel": "Das Kleid ist rot.",
+    "Türkisch": "elbise"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Jacke",
+    "Beispiel": "Die Jacke ist warm.",
+    "Türkisch": "ceket"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "der",
+    "Wort": "Mantel",
+    "Beispiel": "Der Mantel ist lang.",
+    "Türkisch": "palto"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Bluse",
+    "Beispiel": "Die Bluse ist elegant.",
+    "Türkisch": "bluz"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Shorts",
+    "Beispiel": "Die Shorts sind kurz.",
+    "Türkisch": "şort"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "der",
+    "Wort": "Pullover",
+    "Beispiel": "Der Pullover ist warm.",
+    "Türkisch": "kazak"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Socken",
+    "Beispiel": "Die Socken sind neu.",
+    "Türkisch": "çorap"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Schuhe",
+    "Beispiel": "Die Schuhe sind bequem.",
+    "Türkisch": "ayakkabı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Stiefel",
+    "Beispiel": "Die Stiefel sind warm.",
+    "Türkisch": "bot"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Schuhe mit Absatz",
+    "Beispiel": "Die Schuhe mit Absatz sind elegant.",
+    "Türkisch": "topuklu ayakkabı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Mütze",
+    "Beispiel": "Die Mütze ist warm.",
+    "Türkisch": "şapka"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "der",
+    "Wort": "Hut",
+    "Beispiel": "Der Hut ist elegant.",
+    "Türkisch": "şapka"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "der",
+    "Wort": "Schal",
+    "Beispiel": "Der Schal ist lang.",
+    "Türkisch": "atkı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Sonnenbrille",
+    "Beispiel": "Die Sonnenbrille ist dunkel.",
+    "Türkisch": "güneş gözlüğü"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Handschuhe",
+    "Beispiel": "Die Handschuhe sind warm.",
+    "Türkisch": "eldiven"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Unterhose",
+    "Beispiel": "Die Unterhose ist sauber.",
+    "Türkisch": "külot"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "der",
+    "Wort": "Badeanzug",
+    "Beispiel": "Der Badeanzug ist blau.",
+    "Türkisch": "mayo"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Badehose",
+    "Beispiel": "Die Badehose ist trocken.",
+    "Türkisch": "şort"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Tasche",
+    "Beispiel": "Die Tasche ist groß.",
+    "Türkisch": "çanta"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "der",
+    "Wort": "Rucksack",
+    "Beispiel": "Der Rucksack ist schwer.",
+    "Türkisch": "sırt çantası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "der",
+    "Wort": "Ring",
+    "Beispiel": "Der Ring ist golden.",
+    "Türkisch": "yüzük"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Uhr",
+    "Beispiel": "Die Uhr ist teuer.",
+    "Türkisch": "saat"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Kappe",
+    "Beispiel": "Die Kappe ist cool.",
+    "Türkisch": "kep"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Größe",
+    "Beispiel": "Die Größe ist wichtig.",
+    "Türkisch": "beden"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Farbe",
+    "Beispiel": "Die Farbe ist schön.",
+    "Türkisch": "renk"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Umkleidekabine",
+    "Beispiel": "Die Umkleidekabine ist frei.",
+    "Türkisch": "göster kabini"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "der",
+    "Wort": "Verkäufer",
+    "Beispiel": "Der Verkäufer hilft mir.",
+    "Türkisch": "satıcı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "die",
+    "Wort": "Verkäuferin",
+    "Beispiel": "Die Verkäuferin ist freundlich.",
+    "Türkisch": "kadın satıcı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Kleidung",
+    "artikel": "der",
+    "Wort": "Preis",
+    "Beispiel": "Der Preis ist günstig.",
+    "Türkisch": "fiyat"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "das",
+    "Wort": "Auto",
+    "Beispiel": "Das Auto ist schnell.",
+    "Türkisch": "araba"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "Bus",
+    "Beispiel": "Der Bus fährt zur Stadt.",
+    "Türkisch": "otobüs"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "Zug",
+    "Beispiel": "Der Zug kommt pünktlich.",
+    "Türkisch": "tren"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Straßenbahn",
+    "Beispiel": "Die Straßenbahn fährt durch die Stadt.",
+    "Türkisch": "tramvay"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "U-Bahn",
+    "Beispiel": "Die U-Bahn ist schnell.",
+    "Türkisch": "metro"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "das",
+    "Wort": "Taxi",
+    "Beispiel": "Das Taxi ist teuer.",
+    "Türkisch": "taksi"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "das",
+    "Wort": "Fahrrad",
+    "Beispiel": "Das Fahrrad ist umweltfreundlich.",
+    "Türkisch": "bisiklet"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "das",
+    "Wort": "Motorrad",
+    "Beispiel": "Das Motorrad ist laut.",
+    "Türkisch": "motosiklet"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "das",
+    "Wort": "Flugzeug",
+    "Beispiel": "Das Flugzeug fliegt hoch.",
+    "Türkisch": "uçak"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "das",
+    "Wort": "Schiff",
+    "Beispiel": "Das Schiff ist groß.",
+    "Türkisch": "gemi"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "LKW",
+    "Beispiel": "Der LKW transportiert Waren.",
+    "Türkisch": "kamyon"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "Krankenwagen",
+    "Beispiel": "Der Krankenwagen ist schnell.",
+    "Türkisch": "ambulans"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "das",
+    "Wort": "Polizeiauto",
+    "Beispiel": "Das Polizeiauto ist blau.",
+    "Türkisch": "polis arabası"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "Traktor",
+    "Beispiel": "Der Traktor arbeitet auf dem Feld.",
+    "Türkisch": "traktör"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "Bahnhof",
+    "Beispiel": "Der Bahnhof ist groß.",
+    "Türkisch": "istasyon"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Haltestelle",
+    "Beispiel": "Die Haltestelle ist um die Ecke.",
+    "Türkisch": "durak"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "Flughafen",
+    "Beispiel": "Der Flughafen ist weit entfernt.",
+    "Türkisch": "havaalanı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Straße",
+    "Beispiel": "Die Straße ist breit.",
+    "Türkisch": "cadde"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Brücke",
+    "Beispiel": "Die Brücke ist lang.",
+    "Türkisch": "köprü"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Kreuzung",
+    "Beispiel": "Die Kreuzung ist gefährlich.",
+    "Türkisch": "kavşak"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Ampel",
+    "Beispiel": "Die Ampel ist rot.",
+    "Türkisch": "trafik ışığı"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "das",
+    "Wort": "Parkhaus",
+    "Beispiel": "Das Parkhaus ist voll.",
+    "Türkisch": "otopark"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Tankstelle",
+    "Beispiel": "Die Tankstelle ist offen.",
+    "Türkisch": "benzin istasyonu"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "Fahrer",
+    "Beispiel": "Der Fahrer fährt den Bus.",
+    "Türkisch": "şoför"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Fahrerin",
+    "Beispiel": "Die Fahrerin fährt das Taxi.",
+    "Türkisch": "kadın şoför"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "Fahrgast",
+    "Beispiel": "Der Fahrgast steigt ein.",
+    "Türkisch": "yolcu"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "das",
+    "Wort": "Ticket",
+    "Beispiel": "Das Ticket ist gültig.",
+    "Türkisch": "bilet"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Fahrkarte",
+    "Beispiel": "Die Fahrkarte ist teuer.",
+    "Türkisch": "bilet"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Fahrkarte entwerten",
+    "Beispiel": "Die Fahrkarte entwerten ist wichtig.",
+    "Türkisch": "bileti geçerli kılmak"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Reise",
+    "Beispiel": "Die Reise ist lang.",
+    "Türkisch": "seyahat"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "der",
+    "Wort": "Fahrplan",
+    "Beispiel": "Der Fahrplan zeigt die Zeiten.",
+    "Türkisch": "tarife"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Verspätung",
+    "Beispiel": "Die Verspätung ist zehn Minuten.",
+    "Türkisch": "gecikme"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Ankunft",
+    "Beispiel": "Die Ankunft ist um drei Uhr.",
+    "Türkisch": "varış"
+  },
+  {
+    "Niveau": "A1.1",
+    "Thema": "Verkehrsmittel",
+    "artikel": "die",
+    "Wort": "Abfahrt",
+    "Beispiel": "Die Abfahrt ist um zwei Uhr.",
+    "Türkisch": "kalkış"
+  }
+]

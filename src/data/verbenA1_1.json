@@ -1,0 +1,285 @@
+[
+  {
+    "Niveau": "A1.1",
+    "verb": "sein",
+    "Türkisch": "olmak",
+    "Beispiel": "Ich bin Student."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "haben",
+    "Türkisch": "sahip olmak",
+    "Beispiel": "Ich habe ein Buch."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "heißen",
+    "Türkisch": "adı olmak, isimlendirilmek",
+    "Beispiel": "Wie heißt du?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "kommen",
+    "Türkisch": "gelmek",
+    "Beispiel": "Er kommt aus Berlin."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "wohnen",
+    "Türkisch": "oturmak, ikamet etmek",
+    "Beispiel": "Ich wohne in München."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "sprechen",
+    "Türkisch": "konuşmak",
+    "Beispiel": "Sie spricht Deutsch."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "lernen",
+    "Türkisch": "öğrenmek",
+    "Beispiel": "Wir lernen Deutsch."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "machen",
+    "Türkisch": "yapmak",
+    "Beispiel": "Was machst du?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "arbeiten",
+    "Türkisch": "çalışmak",
+    "Beispiel": "Ich arbeite im Büro."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "gehen",
+    "Türkisch": "gitmek",
+    "Beispiel": "Ich gehe zur Schule."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "fragen",
+    "Türkisch": "sormak",
+    "Beispiel": "Darf ich etwas fragen?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "antworten",
+    "Türkisch": "cevap vermek",
+    "Beispiel": "Bitte antworte auf meine Frage."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "sagen",
+    "Türkisch": "söylemek",
+    "Beispiel": "Was sagst du?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "hören",
+    "Türkisch": "duymak, dinlemek",
+    "Beispiel": "Ich höre Musik."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "lesen",
+    "Türkisch": "okumak",
+    "Beispiel": "Sie liest ein Buch."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "schreiben",
+    "Türkisch": "yazmak",
+    "Beispiel": "Ich schreibe einen Brief."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "verstehen",
+    "Türkisch": "anlamak",
+    "Beispiel": "Verstehst du mich?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "buchstabieren",
+    "Türkisch": "hecelemek",
+    "Beispiel": "Wie buchstabiert man das?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "kennen",
+    "Türkisch": "tanımak, bilmek",
+    "Beispiel": "Ich kenne ihn nicht."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "leben",
+    "Türkisch": "yaşamak",
+    "Beispiel": "Wo lebst du?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "lieben",
+    "Türkisch": "sevmek",
+    "Beispiel": "Ich liebe dich."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "brauchen",
+    "Türkisch": "ihtiyaç duymak",
+    "Beispiel": "Ich brauche Hilfe."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "kochen",
+    "Türkisch": "pişirmek",
+    "Beispiel": "Sie kocht das Essen."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "essen",
+    "Türkisch": "yemek yemek",
+    "Beispiel": "Ich esse gern Pizza."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "trinken",
+    "Türkisch": "içmek",
+    "Beispiel": "Er trinkt Kaffee."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "sehen",
+    "Türkisch": "görmek",
+    "Beispiel": "Siehst du das?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "fernsehen",
+    "Türkisch": "televizyon izlemek",
+    "Beispiel": "Wir fernsehen zusammen."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "putzen",
+    "Türkisch": "temizlemek",
+    "Beispiel": "Ich putze die Zähne."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "spielen",
+    "Türkisch": "oynamak",
+    "Beispiel": "Die Kinder spielen Fußball."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "aufstehen",
+    "Türkisch": "kalkmak",
+    "Beispiel": "Ich stehe um 7 Uhr auf."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "frühstücken",
+    "Türkisch": "kahvaltı yapmak",
+    "Beispiel": "Wir frühstücken zusammen."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "anfangen",
+    "Türkisch": "başlamak",
+    "Beispiel": "Wann fängt der Unterricht an?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "schlafen",
+    "Türkisch": "uyumak",
+    "Beispiel": "Ich schlafe gut."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "bleiben",
+    "Türkisch": "kalmak",
+    "Beispiel": "Bleib hier!"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "laufen",
+    "Türkisch": "koşmak, yürümek",
+    "Beispiel": "Ich laufe jeden Tag."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "fahren",
+    "Türkisch": "gitmek, sürmek",
+    "Beispiel": "Wir fahren mit dem Auto."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "fliegen",
+    "Türkisch": "uçmak",
+    "Beispiel": "Das Flugzeug fliegt nach Berlin."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "reisen",
+    "Türkisch": "seyahat etmek",
+    "Beispiel": "Ich reise gern."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "steigen",
+    "Türkisch": "binmek, çıkmak",
+    "Beispiel": "Wir steigen in den Zug."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "parken",
+    "Türkisch": "park etmek",
+    "Beispiel": "Wo kann ich parken?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "mögen",
+    "Türkisch": "sevmek, hoşlanmak",
+    "Beispiel": "Ich mag Pizza."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "denken",
+    "Türkisch": "düşünmek",
+    "Beispiel": "Was denkst du?"
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "glauben",
+    "Türkisch": "inanmak",
+    "Beispiel": "Ich glaube dir."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "hoffen",
+    "Türkisch": "umut etmek",
+    "Beispiel": "Ich hoffe, es klappt."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "sich freuen",
+    "Türkisch": "sevinmek",
+    "Beispiel": "Ich freue mich auf dich."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "finden",
+    "Türkisch": "bulmak",
+    "Beispiel": "Ich finde das Buch."
+  },
+  {
+    "Niveau": "A1.1",
+    "verb": "meinen",
+    "Türkisch": "demek, kastetmek",
+    "Beispiel": "Was meinst du?"
+  }
+]
+

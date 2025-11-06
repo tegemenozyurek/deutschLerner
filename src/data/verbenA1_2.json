@@ -1,0 +1,513 @@
+[
+  {
+    "Niveau": "A1.2",
+    "verb": "kaufen",
+    "Türkisch": "satın almak",
+    "Beispiel": "Ich kaufe Brot im Supermarkt."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "verkaufen",
+    "Türkisch": "satmak",
+    "Beispiel": "Er verkauft sein Auto."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "bezahlen",
+    "Türkisch": "ödemek",
+    "Beispiel": "Ich bezahle mit Karte."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "kosten",
+    "Türkisch": "mal olmak, fiyatı olmak",
+    "Beispiel": "Wie viel kostet das?"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "nehmen",
+    "Türkisch": "almak",
+    "Beispiel": "Ich nehme diese Tasse."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "wählen",
+    "Türkisch": "seçmek",
+    "Beispiel": "Was wählst du?"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "bestellen",
+    "Türkisch": "sipariş vermek",
+    "Beispiel": "Ich bestelle eine Pizza."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "öffnen",
+    "Türkisch": "açmak",
+    "Beispiel": "Kannst du die Tür öffnen?"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "schließen",
+    "Türkisch": "kapatmak",
+    "Beispiel": "Bitte schließe das Fenster."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "probieren",
+    "Türkisch": "denemek, tatmak",
+    "Beispiel": "Probier das mal!"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "suchen",
+    "Türkisch": "aramak",
+    "Beispiel": "Ich suche meinen Schlüssel."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "finden",
+    "Türkisch": "bulmak",
+    "Beispiel": "Ich finde es nicht."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "zeigen",
+    "Türkisch": "göstermek",
+    "Beispiel": "Zeig mir bitte den Weg."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "stehen",
+    "Türkisch": "ayakta durmak",
+    "Beispiel": "Ich stehe am Fenster."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "liegen",
+    "Türkisch": "yatmak, uzanmak",
+    "Beispiel": "Das Buch liegt auf dem Tisch."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "fahren",
+    "Türkisch": "gitmek, sürmek",
+    "Beispiel": "Wir fahren mit dem Bus."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "abfahren",
+    "Türkisch": "kalkmak, hareket etmek",
+    "Beispiel": "Der Zug fährt um 10 Uhr ab."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "ankommen",
+    "Türkisch": "varmak, gelmek",
+    "Beispiel": "Wann kommst du an?"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "umsteigen",
+    "Türkisch": "aktarma yapmak",
+    "Beispiel": "Wir müssen in Berlin umsteigen."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "gehen",
+    "Türkisch": "gitmek",
+    "Beispiel": "Ich gehe zur Arbeit."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "regnen",
+    "Türkisch": "yağmur yağmak",
+    "Beispiel": "Es regnet heute."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "scheinen",
+    "Türkisch": "parlamak, görünmek",
+    "Beispiel": "Die Sonne scheint."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "schneien",
+    "Türkisch": "kar yağmak",
+    "Beispiel": "Es schneit im Winter."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "wehen",
+    "Türkisch": "esmek (rüzgar)",
+    "Beispiel": "Der Wind weht stark."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "blitzen",
+    "Türkisch": "şimşek çakmak",
+    "Beispiel": "Es blitzt am Himmel."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "donnern",
+    "Türkisch": "gök gürlemek",
+    "Beispiel": "Es donnert sehr laut."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "frieren",
+    "Türkisch": "donmak, üşümek",
+    "Beispiel": "Ich friere sehr."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "sein",
+    "Türkisch": "olmak (hava durumu)",
+    "Beispiel": "Es ist schön heute."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "sich bewölken",
+    "Türkisch": "bulutlanmak",
+    "Beispiel": "Der Himmel bewölkt sich."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "weh tun",
+    "Türkisch": "acımak, ağrımak",
+    "Beispiel": "Mein Kopf tut weh."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "sich fühlen",
+    "Türkisch": "hissetmek, kendini hissetmek",
+    "Beispiel": "Ich fühle mich gut."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "laufen",
+    "Türkisch": "koşmak, yürümek",
+    "Beispiel": "Ich laufe jeden Morgen."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "husten",
+    "Türkisch": "öksürmek",
+    "Beispiel": "Er hustet stark."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "niesen",
+    "Türkisch": "hapşırmak",
+    "Beispiel": "Sie niest viel."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "nehmen",
+    "Türkisch": "almak (ilaç)",
+    "Beispiel": "Ich nehme Medizin."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "bleiben",
+    "Türkisch": "kalmak",
+    "Beispiel": "Bleib zu Hause!"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "schlafen",
+    "Türkisch": "uyumak",
+    "Beispiel": "Ich schlafe gut."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "essen",
+    "Türkisch": "yemek yemek",
+    "Beispiel": "Wir essen zusammen."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "trinken",
+    "Türkisch": "içmek",
+    "Beispiel": "Trink viel Wasser!"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "arbeiten",
+    "Türkisch": "çalışmak",
+    "Beispiel": "Ich arbeite von 9 bis 5."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "anrufen",
+    "Türkisch": "aramak (telefon)",
+    "Beispiel": "Ruf mich bitte an!"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "mailen",
+    "Türkisch": "e-posta göndermek",
+    "Beispiel": "Ich maile dir die Informationen."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "schicken",
+    "Türkisch": "göndermek",
+    "Beispiel": "Ich schicke dir eine Postkarte."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "bekommen",
+    "Türkisch": "almak, elde etmek",
+    "Beispiel": "Ich bekomme eine Antwort."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "erklären",
+    "Türkisch": "açıklamak",
+    "Beispiel": "Kannst du mir das erklären?"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "denken",
+    "Türkisch": "düşünmek",
+    "Beispiel": "Was denkst du darüber?"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "vergessen",
+    "Türkisch": "unutmak",
+    "Beispiel": "Ich vergesse nie."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "warten",
+    "Türkisch": "beklemek",
+    "Beispiel": "Ich warte auf den Bus."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "sagen",
+    "Türkisch": "söylemek",
+    "Beispiel": "Was sagst du?"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "reisen",
+    "Türkisch": "seyahat etmek",
+    "Beispiel": "Ich reise gern."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "besuchen",
+    "Türkisch": "ziyaret etmek",
+    "Beispiel": "Ich besuche meine Großeltern."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "fotografieren",
+    "Türkisch": "fotoğraf çekmek",
+    "Beispiel": "Ich fotografiere gern."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "wandern",
+    "Türkisch": "doğa yürüyüşü yapmak",
+    "Beispiel": "Wir wandern am Wochenende."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "baden",
+    "Türkisch": "yüzmek, banyo yapmak",
+    "Beispiel": "Ich bade im Meer."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "tanzen",
+    "Türkisch": "dans etmek",
+    "Beispiel": "Sie tanzt sehr gut."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "lachen",
+    "Türkisch": "gülmek",
+    "Beispiel": "Wir lachen viel."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "feiern",
+    "Türkisch": "kutlamak",
+    "Beispiel": "Wir feiern Geburtstag."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "spielen",
+    "Türkisch": "çalmak (enstrüman)",
+    "Beispiel": "Er spielt Klavier."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "zeichnen",
+    "Türkisch": "çizmek",
+    "Beispiel": "Ich zeichne gern."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "zumachen",
+    "Türkisch": "kapatmak",
+    "Beispiel": "Mach bitte die Tür zu!"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "putzen",
+    "Türkisch": "temizlemek",
+    "Beispiel": "Ich putze die Wohnung."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "aufräumen",
+    "Türkisch": "toplamak, düzenlemek",
+    "Beispiel": "Räum bitte dein Zimmer auf!"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "waschen",
+    "Türkisch": "yıkamak",
+    "Beispiel": "Ich wasche die Wäsche."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "bügeln",
+    "Türkisch": "ütülemek",
+    "Beispiel": "Sie bügelt die Kleidung."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "kochen",
+    "Türkisch": "pişirmek",
+    "Beispiel": "Ich koche das Abendessen."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "backen",
+    "Türkisch": "fırınlamak, pasta yapmak",
+    "Beispiel": "Sie backt einen Kuchen."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "reparieren",
+    "Türkisch": "tamir etmek",
+    "Beispiel": "Er repariert das Auto."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "beginnen",
+    "Türkisch": "başlamak",
+    "Beispiel": "Wann beginnt der Film?"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "enden",
+    "Türkisch": "bitmek, sona ermek",
+    "Beispiel": "Der Film endet um 22 Uhr."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "sich treffen",
+    "Türkisch": "buluşmak",
+    "Beispiel": "Wir treffen uns morgen."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "besprechen",
+    "Türkisch": "tartışmak, görüşmek",
+    "Beispiel": "Wir besprechen das Problem."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "sich erinnern",
+    "Türkisch": "hatırlamak",
+    "Beispiel": "Ich erinnere mich daran."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "planen",
+    "Türkisch": "planlamak",
+    "Beispiel": "Ich plane eine Reise."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "brauchen",
+    "Türkisch": "ihtiyaç duymak",
+    "Beispiel": "Ich brauche Hilfe."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "organisieren",
+    "Türkisch": "organize etmek",
+    "Beispiel": "Wir organisieren eine Party."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "einladen",
+    "Türkisch": "davet etmek",
+    "Beispiel": "Ich lade dich ein."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "lieben",
+    "Türkisch": "sevmek",
+    "Beispiel": "Ich liebe dich."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "mögen",
+    "Türkisch": "sevmek, hoşlanmak",
+    "Beispiel": "Ich mag Kaffee."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "hassen",
+    "Türkisch": "nefret etmek",
+    "Beispiel": "Ich hasse das Wetter."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "sich freuen",
+    "Türkisch": "sevinmek",
+    "Beispiel": "Ich freue mich auf dich."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "sich ärgern",
+    "Türkisch": "sinirlenmek, kızmak",
+    "Beispiel": "Ich ärgere mich darüber."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "sich interessieren",
+    "Türkisch": "ilgilenmek",
+    "Beispiel": "Ich interessiere mich für Musik."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "weinen",
+    "Türkisch": "ağlamak",
+    "Beispiel": "Warum weinst du?"
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "hoffen",
+    "Türkisch": "umut etmek",
+    "Beispiel": "Ich hoffe, es klappt."
+  },
+  {
+    "Niveau": "A1.2",
+    "verb": "danken",
+    "Türkisch": "teşekkür etmek",
+    "Beispiel": "Ich danke dir sehr."
+  }
+]
+

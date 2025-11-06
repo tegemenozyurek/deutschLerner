@@ -1,0 +1,1339 @@
+[
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Kopf",
+    "Beispiel": "Der Kopf tut weh.",
+    "Türkisch": "kafa"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "das",
+    "Wort": "Gesicht",
+    "Beispiel": "Das Gesicht ist rot.",
+    "Türkisch": "yüz"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Haare",
+    "Beispiel": "Die Haare sind lang.",
+    "Türkisch": "saç"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "das",
+    "Wort": "Auge",
+    "Beispiel": "Das Auge ist blau.",
+    "Türkisch": "göz"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "das",
+    "Wort": "Ohr",
+    "Beispiel": "Das Ohr hört gut.",
+    "Türkisch": "kulak"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Nase",
+    "Beispiel": "Die Nase ist groß.",
+    "Türkisch": "burun"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Mund",
+    "Beispiel": "Der Mund ist geschlossen.",
+    "Türkisch": "ağız"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Zahn",
+    "Beispiel": "Der Zahn tut weh.",
+    "Türkisch": "diş"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Hals",
+    "Beispiel": "Der Hals tut weh.",
+    "Türkisch": "boğaz"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Schulter",
+    "Beispiel": "Die Schulter ist steif.",
+    "Türkisch": "omuz"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Arm",
+    "Beispiel": "Der Arm ist lang.",
+    "Türkisch": "kol"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Hand",
+    "Beispiel": "Die Hand ist klein.",
+    "Türkisch": "el"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Finger",
+    "Beispiel": "Der Finger ist lang.",
+    "Türkisch": "parmak"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "das",
+    "Wort": "Bein",
+    "Beispiel": "Das Bein ist lang.",
+    "Türkisch": "bacak"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Fuß",
+    "Beispiel": "Der Fuß ist groß.",
+    "Türkisch": "ayak"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "das",
+    "Wort": "Herz",
+    "Beispiel": "Das Herz schlägt schnell.",
+    "Türkisch": "kalp"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Rücken",
+    "Beispiel": "Der Rücken tut weh.",
+    "Türkisch": "sırt"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Bauch",
+    "Beispiel": "Der Bauch tut weh.",
+    "Türkisch": "karın"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Arzt",
+    "Beispiel": "Der Arzt hilft dem Patienten.",
+    "Türkisch": "doktor"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Ärztin",
+    "Beispiel": "Die Ärztin untersucht den Patienten.",
+    "Türkisch": "kadın doktor"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "das",
+    "Wort": "Krankenhaus",
+    "Beispiel": "Das Krankenhaus ist groß.",
+    "Türkisch": "hastane"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Apotheke",
+    "Beispiel": "Die Apotheke ist geschlossen.",
+    "Türkisch": "eczane"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "das",
+    "Wort": "Rezept",
+    "Beispiel": "Das Rezept ist wichtig.",
+    "Türkisch": "reçete"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "das",
+    "Wort": "Medikament",
+    "Beispiel": "Das Medikament hilft.",
+    "Türkisch": "ilaç"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Tablette",
+    "Beispiel": "Die Tablette ist klein.",
+    "Türkisch": "hap"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Schmerz",
+    "Beispiel": "Der Schmerz ist stark.",
+    "Türkisch": "ağrı"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Krankheit",
+    "Beispiel": "Die Krankheit ist schwer.",
+    "Türkisch": "hastalık"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Erkältung",
+    "Beispiel": "Die Erkältung ist unangenehm.",
+    "Türkisch": "soğuk algınlığı"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "das",
+    "Wort": "Fieber",
+    "Beispiel": "Das Fieber ist hoch.",
+    "Türkisch": "ateş"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Husten",
+    "Beispiel": "Der Husten ist stark.",
+    "Türkisch": "öksürük"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Grippe",
+    "Beispiel": "Die Grippe ist ansteckend.",
+    "Türkisch": "grip"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Wunde",
+    "Beispiel": "Die Wunde tut weh.",
+    "Türkisch": "yara"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Salbe",
+    "Beispiel": "Die Salbe hilft.",
+    "Türkisch": "merhem"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Notarzt",
+    "Beispiel": "Der Notarzt kommt schnell.",
+    "Türkisch": "acil doktor"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "der",
+    "Wort": "Unfall",
+    "Beispiel": "Der Unfall ist schlimm.",
+    "Türkisch": "kaza"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Gesundheit",
+    "artikel": "die",
+    "Wort": "Verletzung",
+    "Beispiel": "Die Verletzung ist schwer.",
+    "Türkisch": "yaralanma"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Stadt",
+    "Beispiel": "Die Stadt ist groß.",
+    "Türkisch": "şehir"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "das",
+    "Wort": "Zentrum",
+    "Beispiel": "Das Zentrum ist weit.",
+    "Türkisch": "merkez"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "der",
+    "Wort": "Bahnhof",
+    "Beispiel": "Der Bahnhof ist links.",
+    "Türkisch": "istasyon"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Haltestelle",
+    "Beispiel": "Die Haltestelle ist um die Ecke.",
+    "Türkisch": "durak"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Straße",
+    "Beispiel": "Die Straße ist lang.",
+    "Türkisch": "cadde"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "der",
+    "Wort": "Platz",
+    "Beispiel": "Der Platz ist groß.",
+    "Türkisch": "meydan"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Brücke",
+    "Beispiel": "Die Brücke ist alt.",
+    "Türkisch": "köprü"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "der",
+    "Wort": "Park",
+    "Beispiel": "Der Park ist schön.",
+    "Türkisch": "park"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "das",
+    "Wort": "Kino",
+    "Beispiel": "Das Kino ist rechts.",
+    "Türkisch": "sinema"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "das",
+    "Wort": "Restaurant",
+    "Beispiel": "Das Restaurant ist gegenüber.",
+    "Türkisch": "restoran"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "der",
+    "Wort": "Supermarkt",
+    "Beispiel": "Der Supermarkt ist nah.",
+    "Türkisch": "süpermarket"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Bäckerei",
+    "Beispiel": "Die Bäckerei ist neben dem Supermarkt.",
+    "Türkisch": "fırın"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Apotheke",
+    "Beispiel": "Die Apotheke ist geschlossen.",
+    "Türkisch": "eczane"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Bank",
+    "Beispiel": "Die Bank ist auf der Hauptstraße.",
+    "Türkisch": "banka"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Post",
+    "Beispiel": "Die Post ist neben der Bank.",
+    "Türkisch": "postane"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "das",
+    "Wort": "Krankenhaus",
+    "Beispiel": "Das Krankenhaus ist weit.",
+    "Türkisch": "hastane"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Kirche",
+    "Beispiel": "Die Kirche ist alt.",
+    "Türkisch": "kilise"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "die",
+    "Wort": "Schule",
+    "Beispiel": "Die Schule ist in der Nähe.",
+    "Türkisch": "okul"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Wegbeschreibung",
+    "artikel": "das",
+    "Wort": "Hotel",
+    "Beispiel": "Das Hotel ist teuer.",
+    "Türkisch": "otel"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Dienstag",
+    "Beispiel": "Der Dienstag ist der zweite Tag.",
+    "Türkisch": "salı"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Mittwoch",
+    "Beispiel": "Der Mittwoch ist in der Mitte der Woche.",
+    "Türkisch": "çarşamba"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Donnerstag",
+    "Beispiel": "Der Donnerstag ist vor dem Freitag.",
+    "Türkisch": "perşembe"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Freitag",
+    "Beispiel": "Der Freitag ist der letzte Arbeitstag.",
+    "Türkisch": "cuma"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Samstag",
+    "Beispiel": "Der Samstag ist am Wochenende.",
+    "Türkisch": "cumartesi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Sonnabend",
+    "Beispiel": "Der Sonnabend ist am Wochenende.",
+    "Türkisch": "cumartesi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Sonntag",
+    "Beispiel": "Der Sonntag ist der letzte Tag der Woche.",
+    "Türkisch": "pazar"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Januar",
+    "Beispiel": "Der Januar ist der erste Monat.",
+    "Türkisch": "ocak"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Februar",
+    "Beispiel": "Der Februar hat 28 Tage.",
+    "Türkisch": "şubat"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "März",
+    "Beispiel": "Der März ist der Frühlingsanfang.",
+    "Türkisch": "mart"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "April",
+    "Beispiel": "Der April ist schön.",
+    "Türkisch": "nisan"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Mai",
+    "Beispiel": "Der Mai ist warm.",
+    "Türkisch": "mayıs"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Juni",
+    "Beispiel": "Der Juni ist der erste Sommermonat.",
+    "Türkisch": "haziran"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Juli",
+    "Beispiel": "Der Juli ist sehr heiß.",
+    "Türkisch": "temmuz"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "August",
+    "Beispiel": "Der August ist der letzte Sommermonat.",
+    "Türkisch": "ağustos"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "September",
+    "Beispiel": "Der September ist der Herbstanfang.",
+    "Türkisch": "eylül"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Oktober",
+    "Beispiel": "Der Oktober ist kühl.",
+    "Türkisch": "ekim"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "November",
+    "Beispiel": "Der November ist kalt.",
+    "Türkisch": "kasım"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Dezember",
+    "Beispiel": "Der Dezember ist der letzte Monat.",
+    "Türkisch": "aralık"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Frühling",
+    "Beispiel": "Der Frühling ist schön.",
+    "Türkisch": "ilkbahar"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Sommer",
+    "Beispiel": "Der Sommer ist heiß.",
+    "Türkisch": "yaz"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Herbst",
+    "Beispiel": "Der Herbst ist kühl.",
+    "Türkisch": "sonbahar"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Winter",
+    "Beispiel": "Der Winter ist kalt.",
+    "Türkisch": "kış"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Termin",
+    "Beispiel": "Der Termin ist um drei Uhr.",
+    "Türkisch": "randevu"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "das",
+    "Wort": "Treffen",
+    "Beispiel": "Das Treffen ist wichtig.",
+    "Türkisch": "buluşma"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "das",
+    "Wort": "Meeting",
+    "Beispiel": "Das Meeting ist lang.",
+    "Türkisch": "toplantı"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Kalender",
+    "Beispiel": "Der Kalender zeigt das Datum.",
+    "Türkisch": "takvim"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "der",
+    "Wort": "Zeitplan",
+    "Beispiel": "Der Zeitplan ist voll.",
+    "Türkisch": "zaman çizelgesi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Zeitplan",
+    "artikel": "die",
+    "Wort": "Verabredung",
+    "Beispiel": "Die Verabredung ist um acht Uhr.",
+    "Türkisch": "randevu"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "die",
+    "Wort": "Einladung",
+    "Beispiel": "Die Einladung ist schön.",
+    "Türkisch": "davetiye"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "die",
+    "Wort": "Party",
+    "Beispiel": "Die Party ist groß.",
+    "Türkisch": "parti"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "das",
+    "Wort": "Fest",
+    "Beispiel": "Das Fest ist lustig.",
+    "Türkisch": "festival"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "der",
+    "Wort": "Geburtstag",
+    "Beispiel": "Der Geburtstag ist am Sonntag.",
+    "Türkisch": "doğum günü"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "die",
+    "Wort": "Geburtstagsfeier",
+    "Beispiel": "Die Geburtstagsfeier ist schön.",
+    "Türkisch": "doğum günü kutlaması"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "die",
+    "Wort": "Hochzeit",
+    "Beispiel": "Die Hochzeit ist am Samstag.",
+    "Türkisch": "düğün"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "das",
+    "Wort": "Jubiläum",
+    "Beispiel": "Das Jubiläum ist wichtig.",
+    "Türkisch": "yıldönümü"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "die",
+    "Wort": "Einladungskarte",
+    "Beispiel": "Die Einladungskarte ist bunt.",
+    "Türkisch": "davetiye kartı"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "der",
+    "Wort": "Gastgeber",
+    "Beispiel": "Der Gastgeber ist freundlich.",
+    "Türkisch": "ev sahibi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "der",
+    "Wort": "Gast",
+    "Beispiel": "Der Gast kommt pünktlich.",
+    "Türkisch": "misafir"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "das",
+    "Wort": "Neujahr",
+    "Beispiel": "Das Neujahr ist ein Feiertag.",
+    "Türkisch": "yeni yıl"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "das",
+    "Wort": "Weihnachten",
+    "Beispiel": "Weihnachten ist im Dezember.",
+    "Türkisch": "noel"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "der",
+    "Wort": "Silvester",
+    "Beispiel": "Silvester ist am 31. Dezember.",
+    "Türkisch": "yılbaşı"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "das",
+    "Wort": "Ostern",
+    "Beispiel": "Ostern ist im Frühling.",
+    "Türkisch": "paskalya"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "das",
+    "Wort": "Festessen",
+    "Beispiel": "Das Festessen ist lecker.",
+    "Türkisch": "ziyafet"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "der",
+    "Wort": "Kuchen",
+    "Beispiel": "Der Kuchen ist süß.",
+    "Türkisch": "pasta"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "das",
+    "Wort": "Geschenk",
+    "Beispiel": "Das Geschenk ist schön.",
+    "Türkisch": "hediye"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "die",
+    "Wort": "Dekoration",
+    "Beispiel": "Die Dekoration ist bunt.",
+    "Türkisch": "dekorasyon"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "der",
+    "Wort": "Tannenbaum",
+    "Beispiel": "Der Tannenbaum ist schön geschmückt.",
+    "Türkisch": "çam ağacı"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Einladungen",
+    "artikel": "das",
+    "Wort": "Feuerwerk",
+    "Beispiel": "Das Feuerwerk ist bunt.",
+    "Türkisch": "havai fişek"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Reise",
+    "Beispiel": "Die Reise ist lang.",
+    "Türkisch": "seyahat"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Urlaub",
+    "Beispiel": "Der Urlaub ist schön.",
+    "Türkisch": "tatil"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Ferien",
+    "Beispiel": "Die Ferien sind lang.",
+    "Türkisch": "tatil"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Ausflug",
+    "Beispiel": "Der Ausflug ist interessant.",
+    "Türkisch": "gezi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Tourist",
+    "Beispiel": "Der Tourist besucht die Stadt.",
+    "Türkisch": "turist"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Sehenswürdigkeit",
+    "Beispiel": "Die Sehenswürdigkeit ist berühmt.",
+    "Türkisch": "görülecek yer"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "das",
+    "Wort": "Hotel",
+    "Beispiel": "Das Hotel ist teuer.",
+    "Türkisch": "otel"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Jugendherberge",
+    "Beispiel": "Die Jugendherberge ist günstig.",
+    "Türkisch": "gençlik yurdu"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "das",
+    "Wort": "Gepäck",
+    "Beispiel": "Das Gepäck ist schwer.",
+    "Türkisch": "bagaj"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Koffer",
+    "Beispiel": "Der Koffer ist groß.",
+    "Türkisch": "valiz"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Landkarte",
+    "Beispiel": "Die Landkarte zeigt den Weg.",
+    "Türkisch": "harita"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Kamera",
+    "Beispiel": "Die Kamera ist teuer.",
+    "Türkisch": "kamera"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "das",
+    "Wort": "Auto",
+    "Beispiel": "Das Auto ist schnell.",
+    "Türkisch": "araba"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Bus",
+    "Beispiel": "Der Bus fährt zur Stadt.",
+    "Türkisch": "otobüs"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Zug",
+    "Beispiel": "Der Zug kommt pünktlich.",
+    "Türkisch": "tren"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Bahn",
+    "Beispiel": "Die Bahn ist schnell.",
+    "Türkisch": "tren"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "das",
+    "Wort": "Flugzeug",
+    "Beispiel": "Das Flugzeug fliegt hoch.",
+    "Türkisch": "uçak"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "das",
+    "Wort": "Schiff",
+    "Beispiel": "Das Schiff ist groß.",
+    "Türkisch": "gemi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "das",
+    "Wort": "Taxi",
+    "Beispiel": "Das Taxi ist teuer.",
+    "Türkisch": "taksi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "das",
+    "Wort": "Fahrrad",
+    "Beispiel": "Das Fahrrad ist umweltfreundlich.",
+    "Türkisch": "bisiklet"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Fahrkarte",
+    "Beispiel": "Die Fahrkarte ist teuer.",
+    "Türkisch": "bilet"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "das",
+    "Wort": "Ticket",
+    "Beispiel": "Das Ticket ist gültig.",
+    "Türkisch": "bilet"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Fahrschein",
+    "Beispiel": "Der Fahrschein ist wichtig.",
+    "Türkisch": "bilet"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Bahnkarte",
+    "Beispiel": "Die Bahnkarte ist teuer.",
+    "Türkisch": "tren bileti"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Schalter",
+    "Beispiel": "Der Schalter ist am Bahnhof.",
+    "Türkisch": "gişe"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Abfahrt",
+    "Beispiel": "Die Abfahrt ist um zwei Uhr.",
+    "Türkisch": "kalkış"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Ankunft",
+    "Beispiel": "Die Ankunft ist um drei Uhr.",
+    "Türkisch": "varış"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Fahrplan",
+    "Beispiel": "Der Fahrplan zeigt die Zeiten.",
+    "Türkisch": "tarife"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Sitzplatz",
+    "Beispiel": "Der Sitzplatz ist bequem.",
+    "Türkisch": "koltuk"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Reservierung",
+    "Beispiel": "Die Reservierung ist wichtig.",
+    "Türkisch": "rezervasyon"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Bahnsteig",
+    "Beispiel": "Der Bahnsteig ist lang.",
+    "Türkisch": "peron"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "das",
+    "Wort": "Gleis",
+    "Beispiel": "Das Gleis ist Nummer drei.",
+    "Türkisch": "peron"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "der",
+    "Wort": "Fahrer",
+    "Beispiel": "Der Fahrer fährt den Bus.",
+    "Türkisch": "şoför"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Reisen",
+    "artikel": "die",
+    "Wort": "Kontrolle",
+    "Beispiel": "Die Kontrolle ist am Eingang.",
+    "Türkisch": "kontrol"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Schule",
+    "Beispiel": "Die Schule beginnt um acht Uhr.",
+    "Türkisch": "okul"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "der",
+    "Wort": "Unterricht",
+    "Beispiel": "Der Unterricht ist interessant.",
+    "Türkisch": "ders"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Stunde",
+    "Beispiel": "Die Stunde ist lang.",
+    "Türkisch": "saat"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "der",
+    "Wort": "Lehrer",
+    "Beispiel": "Der Lehrer erklärt die Grammatik.",
+    "Türkisch": "öğretmen"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Lehrerin",
+    "Beispiel": "Die Lehrerin ist sehr nett.",
+    "Türkisch": "kadın öğretmen"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "der",
+    "Wort": "Schüler",
+    "Beispiel": "Der Schüler lernt Deutsch.",
+    "Türkisch": "öğrenci"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Schülerin",
+    "Beispiel": "Die Schülerin macht Hausaufgaben.",
+    "Türkisch": "kız öğrenci"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Klasse",
+    "Beispiel": "Die Klasse ist groß.",
+    "Türkisch": "sınıf"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "das",
+    "Wort": "Klassenzimmer",
+    "Beispiel": "Das Klassenzimmer ist hell.",
+    "Türkisch": "sınıf"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Pause",
+    "Beispiel": "Die Pause ist kurz.",
+    "Türkisch": "tenefüs"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "der",
+    "Wort": "Schulhof",
+    "Beispiel": "Der Schulhof ist groß.",
+    "Türkisch": "okul bahçesi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Tafel",
+    "Beispiel": "Die Tafel ist schwarz.",
+    "Türkisch": "tahta"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Kreide",
+    "Beispiel": "Die Kreide ist weiß.",
+    "Türkisch": "tebeşir"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "das",
+    "Wort": "Buch",
+    "Beispiel": "Das Buch ist dick.",
+    "Türkisch": "kitap"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "das",
+    "Wort": "Heft",
+    "Beispiel": "Das Heft ist voll.",
+    "Türkisch": "defter"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "der",
+    "Wort": "Stift",
+    "Beispiel": "Der Stift ist blau.",
+    "Türkisch": "kalem"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "der",
+    "Wort": "Radiergummi",
+    "Beispiel": "Der Radiergummi ist klein.",
+    "Türkisch": "silgi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "das",
+    "Wort": "Lineal",
+    "Beispiel": "Das Lineal ist lang.",
+    "Türkisch": "cetvel"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Schultasche",
+    "Beispiel": "Die Schultasche ist schwer.",
+    "Türkisch": "okul çantası"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Schule",
+    "artikel": "die",
+    "Wort": "Hausaufgabe",
+    "Beispiel": "Die Hausaufgabe ist schwer.",
+    "Türkisch": "ev ödevi"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Briefe",
+    "artikel": "der",
+    "Wort": "Brief",
+    "Beispiel": "Der Brief ist lang.",
+    "Türkisch": "mektup"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Briefe",
+    "artikel": "die",
+    "Wort": "Postkarte",
+    "Beispiel": "Die Postkarte ist schön.",
+    "Türkisch": "kartpostal"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Briefe",
+    "artikel": "der",
+    "Wort": "Briefumschlag",
+    "Beispiel": "Der Briefumschlag ist weiß.",
+    "Türkisch": "zarf"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Briefe",
+    "artikel": "die",
+    "Wort": "Briefmarke",
+    "Beispiel": "Die Briefmarke ist bunt.",
+    "Türkisch": "pul"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Briefe",
+    "artikel": "die",
+    "Wort": "Adresse",
+    "Beispiel": "Die Adresse ist wichtig.",
+    "Türkisch": "adres"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Briefe",
+    "artikel": "der",
+    "Wort": "Absender",
+    "Beispiel": "Der Absender ist bekannt.",
+    "Türkisch": "gönderen"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Briefe",
+    "artikel": "der",
+    "Wort": "Empfänger",
+    "Beispiel": "Der Empfänger ist glücklich.",
+    "Türkisch": "alıcı"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Briefe",
+    "artikel": "der",
+    "Wort": "Postbote",
+    "Beispiel": "Der Postbote bringt die Post.",
+    "Türkisch": "postacı"
+  },
+  {
+    "Niveau": "A1.2",
+    "Thema": "Briefe",
+    "artikel": "die",
+    "Wort": "Post",
+    "Beispiel": "Die Post ist am Montag offen.",
+    "Türkisch": "postane"
+  }
+]
+
