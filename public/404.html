@@ -5,10 +5,15 @@
     <title>Deutsch Lerner</title>
     <script>
       // GitHub Pages SPA routing fix
-      sessionStorage.redirect = location.href;
+      var path = window.location.pathname;
+      var base = path.split('/').filter(Boolean)[0] || 'deutschLerner';
+      if (path !== '/' + base + '/' && path !== '/' + base + '/index.html') {
+        window.location.replace('/' + base + '/index.html');
+      }
     </script>
-    <meta http-equiv="refresh" content="0;URL='/deutschLerner/index.html'">
   </head>
-  <body></body>
+  <body>
+    <p>Redirecting...</p>
+  </body>
 </html>
 
